@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "db",
+      "type": "com.boot.profile.beans.DataSourceManager",
+      "sourceType": "com.boot.profile.beans.DataSourceManager"
+    }
+  ],
+  "properties": [
+    {
+      "name": "db.driver-classname",
+      "type": "java.lang.String",
+      "sourceType": "com.boot.profile.beans.DataSourceManager"
+    },
+    {
+      "name": "db.password",
+      "type": "java.lang.String",
+      "sourceType": "com.boot.profile.beans.DataSourceManager"
+    },
+    {
+      "name": "db.url",
+      "type": "java.lang.String",
+      "sourceType": "com.boot.profile.beans.DataSourceManager"
+    },
+    {
+      "name": "db.username",
+      "type": "java.lang.String",
+      "sourceType": "com.boot.profile.beans.DataSourceManager"
+    }
+  ],
+  "hints": []
+}
